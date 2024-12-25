@@ -10,7 +10,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/evren-cinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evren-cinar" height="60" width="80" /></a>
-<a href="https://instagram.com/evodevgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evodevgames" height="60" width="80" /></a>
+<a href="https://instagram.com/evrenncinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evodevgames" height="60" width="80" /></a>
 <a href="https://www.youtube.com/@dev_evo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev_evo" height="60" width="80" /></a>
 </p>
 
